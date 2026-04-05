@@ -10,4 +10,5 @@ public class SpringSecutrityProjectApplication {
 		SpringApplication.run(SpringSecutrityProjectApplication.class, args);
 	}
 
+
 }
